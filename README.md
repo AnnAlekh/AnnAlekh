@@ -1,4 +1,6 @@
 <img src="header.png" alt="альтернативный текст">
+### Computer science student & Computer science engineer
+### from Russia 🇷🇺
 
 <!--
 **AnnAlekh/AnnAlekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
