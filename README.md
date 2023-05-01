@@ -5,15 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnAlekh&theme=solarized_dark)
 
-uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F700&background=4DFBFF00&center=true&width=435&lines=Computer+science+student;Computer+vision+engineer)](https://git.io/typing-svg)
