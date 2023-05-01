@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnAlekh&layout=compact)](https://github.com/AnnAlekh/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnAlekh&theme=solarized_dark)
+
+node updater.js ${{ github.AnnAlekh }} <ubuntu>
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F700&background=4DFBFF00&center=true&width=435&lines=Computer+science+student;Computer+vision+engineer)](https://git.io/typing-svg)
 -->
