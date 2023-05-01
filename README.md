@@ -1,6 +1,5 @@
 <img src="header.png" alt="альтернативный текст">
-Computer science student & Computer science engineer
-from Russia 🇷🇺
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **AnnAlekh/AnnAlekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
