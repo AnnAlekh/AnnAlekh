@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnAlekh&layout=compact)](https://github.com/AnnAlekh/github-readme-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnAlekh&theme=solarized_dark)
 
