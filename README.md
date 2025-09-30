@@ -1,37 +1,37 @@
-<img src="header.png" alt="альтернативный текст">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F700&background=4DFBFF00&center=true&width=435&lines=Computer+science+student;Computer+vision+engineer" alt="Typing SVG" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C853&width=435&lines=Привет,+я+Анна;Python+🐍+и+алгоритмы+💡" alt="Typing" />
+</h1>
 
+<p align="center">
+  <a href="https://leetcode.com/u/AnnAlekh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://t.me/AnnAlekh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
+<!-- --------------- СТАТИСТИКА --------------- -->
+<h2 align="center">📊 GitHub-метрики</h2>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnnAlekh&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnAlekh&theme=radical&hide_border=true" alt="Streak" />
+</p>
 
-- 🔭 I’m currently working on dissertatiom
-- 🌱 I’m currently learning Python 
+<!-- --------------- НАВЫКИ --------------- -->
+<h2 align="center">🧰 Техно-стек</h2>
+<p align="center">
+  <img src="https://skill-icons.dev/icons?i=py,git,github,vscode,markdown&perline=5" alt="Stack" />
+</p>
 
+<!-- --------------- ПИНЫ --------------- -->
+<h2 align="center">🔥 Закреплённые репы</h2>
+<p align="center">
+  <a href="https://github.com/AnnAlekh/leetcode-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnnAlekh&repo=leetcode-solutions&theme=radical" alt="LeetCode" />
+  </a>
+</p>
 
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnAlekh&theme=solarized_dark)
-
-
-
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F700&background=4DFBFF00&center=true&width=435&lines=Computer+science+student;Computer+vision+engineer)](https://git.io/typing-svg)
-
--->
-<!--
-**AnnAlekh/AnnAlekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- --------------- АВТО-АПДЕЙТ --------------- -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
