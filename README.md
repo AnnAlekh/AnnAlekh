@@ -35,3 +35,17 @@
 <!-- --------------- АВТО-АПДЕЙТ --------------- -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<!-- --------------- КОНТАКТЫ --------------- -->
+<h2 align="center">📫 Контакты</h2>
+<p align="center">
+  <a href="https://t.me/Carthago_delenda_es">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:dumooroo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/dumooroo/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
