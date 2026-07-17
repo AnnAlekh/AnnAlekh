@@ -1,31 +1,3 @@
-<div align="center">
-
-# 👋 Привет, я Анна!
-
-### 🐍 Python разработчик | 💡 Решаю алгоритмические задачи
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C853&width=435&lines=Python+разработчик;Алгоритмы+и+структуры+данных;Machine+Learning+энтузиаст)](https://git.io/typing-svg)
-
----
-
-</div>
-
-## 🚀 Обо мне
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Анна"
-        self.location = "Россия"
-        self.languages = ["Python", "SQL"]
-        self.interests = [
-            "Алгоритмы и структуры данных",
-            "Машинное обучение",
-            "Deep Learning",
-            "Решение задач на LeetCode"
-        ]
-    
-    def current_focus(self):
         return "Изучаю ML модели для классификации изображений"
     
     def goal(self):
